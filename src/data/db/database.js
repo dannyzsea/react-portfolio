@@ -14,9 +14,10 @@ const database = {
     socialLinks: {
       facebook: '',
       twitter: '',
+      youtube:'https://www.youtube.com/channel/UCRfNZk60icSpIsgG8Pwtqlg?view_as=subscriber',
       pinterest: '',
       behance: '',
-      linkedin: '',
+      linkedin: 'https://www.linkedin.com/in/daniel-hagos-a2b8401b7/',
       dribbble: '',
       github: 'https://github.com/javaIsland'
     },

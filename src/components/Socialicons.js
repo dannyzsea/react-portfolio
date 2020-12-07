@@ -29,6 +29,14 @@ function Socialicons(props){
           <LineIcon name="pinterest"/>
         </a>
       </li>}
+
+      {!socialLinks.youtube ? null : <li>
+        <a rel="noopener noreferrer" target="_blank" href={socialLinks.youtube}>
+          <LineIcon name="youtube"/>
+        </a>
+      </li>}
+
+
       {!socialLinks.behance ? null : <li>
         <a rel="noopener noreferrer" target="_blank" href={socialLinks.behance}>
           <LineIcon name="behance"/>
