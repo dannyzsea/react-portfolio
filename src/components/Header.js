@@ -39,7 +39,7 @@ function Header(){
                     <li><a href="https://www.youtube.com/channel/UCRfNZk60icSpIsgG8Pwtqlg?view_as=subscriber"><span>Youtube</span></a></li>
                     <li><a href="https://github.com/javaIsland"><span>github</span></a></li>
                 </ul>
-                <p className="mi-header-copyright">&copy; {new Date().getFullYear()} <b><a rel="noopener noreferrer" target="_blank" href="https://danielhagos.web.app/"> Daniel Hagos</a></b></p>
+                <p className="mi-header-copyright">&copy; {new Date().getFullYear()} <b> Daniel Hagos</b></p>
             </div>
         </nav>
     )
