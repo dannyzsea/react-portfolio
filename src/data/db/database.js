@@ -46,26 +46,26 @@ const database = {
   reviews: [
     {
       id: 1,
-      content: "Phone: +1 571 253 1294 Email: beky.bk.2000@gmail.com",
+      content: "",
       author: {
-        name: 'Bereket Gebremeskel',
-        designation: 'former CEO of BHD IT SOLUTIONS PLC'
+        name: '',
+        designation: ''
       }
     },
     {
       id: 2,
-      content: "Phone: +1 617 792 7873 Email: frehiwott24@gmail.com",
+      content: "",
       author: {
-        name: 'Frehiwot Micheal',
-        designation: 'Former coworker'
+        name: '',
+        designation: ''
       }
     },
     {
       id: 3,
-      content: "Phone: +1 515 707 7693 Email: eyuel.taddede4@gmail.com",
+      content: "",
       author: {
-        name: 'Eyuel Taddesse',
-        designation: 'Manager at BHD IT SOLUTIONS PLC'
+        name: '',
+        designation: ''
       }
     }
   ],

@@ -1,6 +1,4 @@
 import React from 'react';
-
-
 function Service(props){
   return (
     <div className="mi-service">
