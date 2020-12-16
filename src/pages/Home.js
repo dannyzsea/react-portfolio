@@ -3,7 +3,6 @@ import axios from 'axios';
 import Particles from "react-particles-js";
 import Socialicons from "../components/Socialicons";
 import Layout from "../components/Layout";
-import Portfolio from "../components/Portfolio";
 import Portfolios from "../pages/Portfolios";
 
 function Home(){
