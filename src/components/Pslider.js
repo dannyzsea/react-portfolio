@@ -1,6 +1,6 @@
 import React from 'react';
 
-function slider() {
+function Pslider() {
     return (
         <div className="slide">
             
@@ -8,4 +8,4 @@ function slider() {
     )
 }
 
-export default slider;
+export default Pslider;
