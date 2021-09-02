@@ -3,8 +3,7 @@ import Mock from "../mock";
 const database = {
   information: {
     name: 'Daniel Hagos',
-    aboutContent: "I am Motivated Fullstack Javascript Developer with 3+ years of hands on experience analysis, design, development, of software applications and systems. I Maximized quality and responsiveness of applications by implementing latest technologies. Skilled in using, Core Java, ReactJs, NodeJs, ExpressJs. nextJs, mysql and mongoDB.",
-    age: 24,
+    aboutContent: "Motivated, creative, resourceful, and versatile Software Engineer experienced in Agile software development and systems. With knowledge of various programming languages, I am looking for an opportunity to further utilize my skills in a growth-oriented position within the tech industry.",
     phone: '',
     nationality: 'GreenCard',
     language: 'English, Arabic,Tigrgna, Amharic',
@@ -17,9 +16,9 @@ const database = {
       youtube:'https://www.youtube.com/channel/UCRfNZk60icSpIsgG8Pwtqlg?view_as=subscriber',
       pinterest: '',
       behance: '',
-      linkedin: 'https://www.linkedin.com/in/daniel-hagos-a2b8401b7/',
+      linkedin: 'https://www.linkedin.com/in/dannyhagos/',
       dribbble: '',
-      github: 'https://github.com/javaIsland'
+      github: 'https://github.com/dannyzsea'
     },
     brandImage: '/images/dan.jpg',
     aboutImage: '/images/dan2.jpg',
@@ -152,13 +151,20 @@ const database = {
     workingExperience: [
       {
         id: 1,
+        year: "February 2021 -  July 2021",
+        position: "Software Engineer",
+        company: "",
+        details: "Infosys, USA"
+      },
+      {
+        id: 2,
         year: "2017 - September 2020",
         position: "Fullstack Web Developer",
         company: "",
         details: "BHD IT SOLUTIONS PLC, Addis Ababa, Ethiopia • October 2017-Sep 23, 2020 Clients: AGAZI DIMENSIONAL STONE PLC"
       },
       {
-        id: 2,
+        id: 3,
         year: "2015 - 2016",
         position: "Lead Intern",
         company: "CLAIR ICT SOLUTIONS",
