@@ -117,7 +117,7 @@ const database = {
       subtitle: "Front end using ReactJs.",
       imageUrl: "/images/hulu.PNG",
       largeImageUrl: ["/images/hulu.PNG"],
-      url: 'https://hulu-clone-cfdbe.firebaseapp.com/'
+      url: 'https://github.com/dannyzsea/hulu-clone'
     },
     {
       id: 2,
