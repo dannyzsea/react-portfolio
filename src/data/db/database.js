@@ -135,7 +135,7 @@ const database = {
       title: "Portfolio",
       subtitle: "personal project",
       imageUrl: "/images/manage.PNG",
-      url: 'https://github.com/javaIsland/daniel-portfolio'
+      url: 'https://github.com/dannyzsea/daniel-portfolio'
     },
     {
       id: 4,
@@ -143,7 +143,7 @@ const database = {
       subtitle: "Sass Practice.",
       imageUrl: "/images/css.PNG",
       largeImageUrl: ["/images/css.PNG"],
-      url: "https://github.com/javaIsland/css-practice"
+      url: "https://github.com/dannyzsea/css-practice"
     }
     
   ],
@@ -159,32 +159,24 @@ const database = {
       {
         id: 2,
         year: "2017 - September 2020",
-        position: "Fullstack Web Developer",
+        position: "Front-end Developer",
         company: "",
         details: "BHD IT SOLUTIONS PLC, Addis Ababa, Ethiopia • October 2017-Sep 23, 2020 Clients: AGAZI DIMENSIONAL STONE PLC"
-      },
-      {
-        id: 3,
-        year: "2015 - 2016",
-        position: "Lead Intern",
-        company: "CLAIR ICT SOLUTIONS",
-        details: "Embedded system programmer"
       }
-  
     ],
     educationExperience: [
       {
         id: 1,
         year: "2011 - 2016",
-        graduation: " Science",
+        graduation: " bachelor's degree",
         university: "Ethiopia Institute of Techonology (Mekelle University)",
-        details: "Key Courses: Software Engineering, Database management system, Modern Programming Practices, Computer Architecture, Operating Systems, Embedded system programming and design, Java programming, C++ programming."
+        details: "Key Courses: Software Engineering, Database management system, Modern Programming Practices, Computer Architecture, Operating Systems, Embedded system programming and design, Java programming."
       }
 
     ]
   },
   contactInfo: {
-    phoneNumbers: [ '+1 720 675 7974'],
+    phoneNumbers: [ '+1 206-769-1821'],
     emailAddress: ['javatechisland@gmail.com'],
     address: "seattle, Washington, 98125, USA"
   }
