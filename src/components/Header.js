@@ -37,7 +37,7 @@ function Header(){
                     <li><NavLink to="/portfolios"><span>Portfolios</span></NavLink></li>
                     <li><NavLink to="/contact"><span>Contact</span></NavLink></li>
                     <li><a href="https://www.youtube.com/channel/UCRfNZk60icSpIsgG8Pwtqlg?view_as=subscriber"><span>Youtube</span></a></li>
-                    <li><a href="https://github.com/javaIsland"><span>github</span></a></li>
+                    <li><a href="https://github.com/dannyzsea"><span>github</span></a></li>
                 </ul>
                 <p className="mi-header-copyright">&copy; {new Date().getFullYear()} <b> Daniel Hagos</b></p>
             </div>
