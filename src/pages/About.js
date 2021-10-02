@@ -82,7 +82,7 @@ function About() {
                   I am <span className="color-theme">{information.name}</span>
                 </h3>
                 <p>
-                  I am a full stack javascript developer. 
+                  I am a full stack C#~.NET | Java~ Spring boot|Angular| React| Developer. 
                 </p>
                 <ul>
                   {!information.name ? null : (
