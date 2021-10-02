@@ -34,7 +34,7 @@ const database = {
     {
       title: "Backend Development",
       icon: 'code',
-      details: "Strong understanding of Nodejs and expressJs"
+      details: "Strong understanding of Nodejs| expressJs | Spring boot | .NET | "
     },
     {
       title: "CoreJava",
