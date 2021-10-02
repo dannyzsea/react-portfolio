@@ -3,8 +3,8 @@ import Mock from "../mock";
 const database = {
   information: {
     name: 'Daniel Hagos',
-    aboutContent: "Motivated, creative, resourceful, and versatile Software Engineer experienced in Agile software development and systems. With knowledge of various programming languages, I am looking for an opportunity to further utilize my skills in a growth-oriented position within the tech industry.",
-    phone: '',
+    aboutContent: "Motivated, creative, resourceful, and versatile Software Engineer experienced in Agile software development and systems. With knowledge of various programming languages, I am looking for an opportunity to further utilize my skills in a growth-oriented position within the tech industry.Created both web applications from the ground up, including requirements. gathering, user interface, back-end, web services, database communication and maintenance. Performed troubleshooting and delivered final product to specifications. I also Participated in the project Amigo wallet banking Application, my responsibility was to develop the front-end and help on the backend, I used the technologies Angular, React, C#, Java, Entity Framework Core, Web Service API, Spring boot, Hibernate and SQL server.",
+    phone: '+1 206-769-1821',
     nationality: 'GreenCard',
     language: 'English, Arabic,Tigrgna, Amharic',
     email: 'javatechisland@gmail.com',
