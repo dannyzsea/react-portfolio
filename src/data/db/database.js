@@ -168,7 +168,7 @@ const database = {
       {
         id: 1,
         year: "2011 - 2016 evaluated to USA equivalence in 2018 ",
-        graduation: " bachelor's degree",
+        graduation: " Bachelor's degree",
         university: "Ethiopia Institute of Techonology (Mekelle University)",
         details: "Key Courses: Software Engineering, Database management system, Modern Programming Practices, Computer Architecture, Operating Systems, Embedded system programming and design, Java programming..."
       }
