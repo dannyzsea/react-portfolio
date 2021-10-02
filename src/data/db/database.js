@@ -152,14 +152,14 @@ const database = {
       {
         id: 1,
         year: "February 2021 -  July 2021",
-        position: "Software Engineer",
+        position: "Software Engineer | C#~ .NET | Java~ Spring boot |",
         company: "Infosys, USA",
         details: "Developed and maintained multiple front-end projects using, React, Angular.Implemented Database using SQL Server.Writing clean, scalable code using C# Programming language Developed Data Access Layer using Entity Framework CoreDeveloped Services using ASP.Net core web API.Styled using CSS and bootstrap.Used HTML to structure a web.Used Azure DevOps for version Control.Used Azure for deployment."
       },
       {
         id: 2,
         year: "2017 - September 2020",
-        position: "Front-end Developer| C#~ .NET|Java~ Spring boot|",
+        position: "Front-end Developer|React | Angular | C#~ .NET | Java~ Spring boot |",
         company: "BHD IT SOLUTIONS PLC, Addis Ababa, Ethiopia",
         details: " • October 2017-Sep 23, 2020 Clients: AGAZI DIMENSIONAL STONE PLC Frontend Developer Engineer /and slight help with Java, C#, .NET Designed and Developed UI using react with Redux and tested with jasmine.Discussed with fellow developers to understand existing code and come up with efficient solution for given requirement.Extensively used GitHub for Version control.Used Flex box for designing responsive web App. Used Postman to build modify and test API.Developed and maintained multiple front-end projects using, React, Angular.Implemented Database using SQL Server.Writing clean, scalable code using C# Programming language Developed Data Access Layer using Entity Framework Core Developed Services using ASP.Net core web API."
       }
