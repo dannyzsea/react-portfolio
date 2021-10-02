@@ -3,7 +3,7 @@ import Mock from "../mock";
 const database = {
   information: {
     name: 'Daniel Hagos',
-    aboutContent: "Motivated, creative, resourceful, and versatile Software Engineer experienced in Agile software development and systems. With knowledge of various programming languages, I am looking for an opportunity to further utilize my skills in a growth-oriented position within the tech industry.Created both web applications from the ground up, including requirements. gathering, user interface, back-end, web services, database communication and maintenance. Performed troubleshooting and delivered final product to specifications. I also Participated in the project Amigo wallet banking Application, my responsibility was to develop the front-end and help on the backend, I used the technologies Angular, React, C#, Java, Entity Framework Core, Web Service API, Spring boot, Hibernate and SQL server.",
+    aboutContent: "Motivated, creative, resourceful, and versatile Software Engineer experienced in Agile software development and systems. With knowledge of various programming languages, I am looking for an opportunity to further utilize my skills in a growth-oriented position within the tech industry.Created web applications from the ground up, including requirements. gathering, user interface, back-end, web services, database communication and maintenance. Performed troubleshooting and delivered final product to specifications. I also Participated in the project Amigo wallet banking Application, my responsibility was to develop the front-end and help on the backend, I used the technologies Angular, React, C#, Java, Entity Framework Core, Web Service API, Spring boot, Hibernate and SQL server.",
     phone: '+1 206-769-1821',
     nationality: 'GreenCard',
     language: 'English, Arabic,Tigrgna, Amharic',
@@ -153,24 +153,24 @@ const database = {
         id: 1,
         year: "February 2021 -  July 2021",
         position: "Software Engineer",
-        company: "",
-        details: "Infosys, USA"
+        company: "Infosys, USA",
+        details: "Developed and maintained multiple front-end projects using, React, Angular.Implemented Database using SQL Server.Writing clean, scalable code using C# Programming language Developed Data Access Layer using Entity Framework CoreDeveloped Services using ASP.Net core web API.Styled using CSS and bootstrap.Used HTML to structure a web.Used Azure DevOps for version Control.Used Azure for deployment."
       },
       {
         id: 2,
         year: "2017 - September 2020",
         position: "Front-end Developer",
-        company: "",
-        details: "BHD IT SOLUTIONS PLC, Addis Ababa, Ethiopia • October 2017-Sep 23, 2020 Clients: AGAZI DIMENSIONAL STONE PLC"
+        company: "BHD IT SOLUTIONS PLC, Addis Ababa, Ethiopia",
+        details: " • October 2017-Sep 23, 2020 Clients: AGAZI DIMENSIONAL STONE PLC Frontend Developer Engineer /and slight help with Java, C#, .NET Designed and Developed UI using react with Redux and tested with jasmine.Discussed with fellow developers to understand existing code and come up with efficient solution for given requirement.Extensively used GitHub for Version control.Used Flex box for designing responsive web App. Used Postman to build modify and test API.Developed and maintained multiple front-end projects using, React, Angular.Implemented Database using SQL Server.Writing clean, scalable code using C# Programming language Developed Data Access Layer using Entity Framework Core Developed Services using ASP.Net core web API."
       }
     ],
     educationExperience: [
       {
         id: 1,
-        year: "2011 - 2016",
+        year: "2011 - 2016 evaluated to USA equivalence in 2018 ",
         graduation: " bachelor's degree",
         university: "Ethiopia Institute of Techonology (Mekelle University)",
-        details: "Key Courses: Software Engineering, Database management system, Modern Programming Practices, Computer Architecture, Operating Systems, Embedded system programming and design, Java programming."
+        details: "Key Courses: Software Engineering, Database management system, Modern Programming Practices, Computer Architecture, Operating Systems, Embedded system programming and design, Java programming..."
       }
 
     ]
