@@ -109,6 +109,34 @@ const database = {
       title: "Redux",
       value: 95
     },
+    {
+      title: "C#",
+      value: 95
+    },
+    {
+      title: "Spring boot",
+      value: 95
+    },
+    {
+      title: "Hibernate",
+      value: 95
+    },
+    {
+      title: ".NET",
+      value: 95
+    },
+    {
+      title: "ASP.NET",
+      value: 95
+    },
+    {
+      title: "SQL",
+      value: 95
+    },
+    {
+      title: "Agile/SCRUM Methodology",
+      value: 95
+    },
   ],
   portfolios: [
     {
